@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # 🧬 FASTA File Analyzer
 
 A beginner-friendly bioinformatics project built with Python to analyze DNA sequences stored in FASTA files. This tool reads multiple sequences, calculates basic sequence statistics, identifies the longest and shortest sequences, and searches for specific DNA motifs.
@@ -168,3 +169,7 @@ Created as a learning project to develop Python programming skills and explore p
 ## 📄 License
 
 This project is open source. You may add an MIT License if you want others to reuse, modify, and distribute your code under its terms.
+=======
+# fasta-analyzer
+A Python-based bioinformatics tool to analyze DNA sequences in FASTA files, calculate GC% and AT%, identify sequence lengths, and find DNA motifs
+>>>>>>> 74db9ab5b248278995446c8bc00d021eae4db40e
